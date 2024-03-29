@@ -340,7 +340,7 @@ var games = [
     {
       'id': 'roblox',
       'title': "Roblox",
-      'url': 'https://nowgg.nl/play/roblox-corporation/5349/roblox',
+      'url': 'https://now.gg/apps/roblox-corporation/5349/roblox.html',
       'image': 'https://play-lh.googleusercontent.com/WNWZaxi9RdJKe2GQM3vqXIAkk69mnIl4Cc8EyZcir2SKlVOxeUv9tZGfNTmNaLC717Ht'
     },
     {
@@ -360,6 +360,12 @@ var games = [
       'title': "Getaway Shootout",
       'url': 'https://ubg100.github.io/games/getaway-shootout/index.html',
       'image': 'https://docs.google.com/drawings/d/e/2PACX-1vSYEitLVmG38SKscmqG-RQI5aEC45UCr4y6ym9wE_okDr1OHjKT9eju2gmwr0auGrvljmbkuwX7dOGI/pub?w=605&h=602'
+    },
+    {
+      'id': 'suika',
+      'title': "Suika Game",
+      'url': 'https://suikagame.com/',
+      'image': 'https://docs.google.com/drawings/d/e/2PACX-1vQ8gtFb6hU4_UrOiqeOMvbL8Q9Z1Rspox3EEc7UbnamFHYP9Cn4Dx0DS0W2-hswiEQAd5z_RrJiRZmF/pub?w=732&h=690'
     },
   ]
   
